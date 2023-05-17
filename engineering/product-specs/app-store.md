@@ -59,4 +59,4 @@ _We have plans to make it very clear during installation as to which data would 
 
 #### Further Readings
 
-* [How to build an App in App Store](https://app.gitbook.com/s/vnsvL4GbkACtu7LWnJSR/how-to-guides/how-to-build-an-app)
+* [How to build an App in App Store](http://localhost:5000/s/vnsvL4GbkACtu7LWnJSR/how-to-guides/how-to-build-an-app)

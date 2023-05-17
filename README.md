@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1510146758428-e5e4b17b8b6a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHx0ZWFtfGVufDB8fHx8MTY1NTA0MzA5MQ&ixlib=rb-1.2.1&q=80
-coverY: 0
+cover: .gitbook/assets/9e22d93e-bec6-4a14-ba89-f64f45a896ce.jpg
+coverY: -73
 ---
 
 # 👋 Cal.com Handbook

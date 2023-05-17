@@ -8,7 +8,7 @@ description: >-
 
 * [Prefer inferred types over explicit ones](prefer-inferred-types-over-explicit-ones.md)
 * [Prefer early returns](prefer-early-returns.md)
-* [Avoid comparing multiple values with `includes`](avoid-comparing-multiple-values-with-includes.md)``
+* [Avoid comparing multiple values with `includes`](avoid-comparing-multiple-values-with-includes.md)
 * [Validate using zod instead of type casting](validate-using-zod-instead-of-type-casting.md)
 * Don't hesitate extracting nested code into new React Components
 * Code organization tips

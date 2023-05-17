@@ -9,7 +9,7 @@
 ### **Types of Routing**
 
 * Route to particular cal link.
-* Route to booking with a particular member of a team event that's the best match. It can be like a new addition to Scheduling Type options (Collective, Round Robin) - _ <mark style="color:red;">Calendly doesn't seem to have it.</mark>_
+* Route to booking with a particular member of a team event that's the best match. It can be like a new addition to Scheduling Type options (Collective, Round Robin) - _<mark style="color:red;">Calendly doesn't seem to have it.</mark>_
 * Route to external URL e.g. if requirements for a meeting don’t meet
 * Route to a Page with a custom message e.g. Thank you for your interest but we aren't ready to serve you yet.
 

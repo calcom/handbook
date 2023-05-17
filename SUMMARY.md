@@ -39,6 +39,7 @@
   * [Validate using zod instead of type casting](engineering/best-practices/validate-using-zod-instead-of-type-casting.md)
   * [Prefer Composition over Prop Drilling](engineering/best-practices/prefer-composition-over-prop-drilling.md)
   * [Prefer ternaries over Short Circuiting “&&” for React Components](engineering/best-practices/prefer-ternaries-over-short-circuiting-and-and-for-react-components.md)
+  * [Don't modularize prematurely](engineering/best-practices/dont-modularize-prematurely.md)
 * [💻 Codebase](engineering/codebase/README.md)
   * [🚫 Git Private Submodules](engineering/codebase/git-private-submodules.md)
   * [🏎 Monorepo / Turborepo](engineering/codebase/monorepo-turborepo.md)
