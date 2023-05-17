@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/9e22d93e-bec6-4a14-ba89-f64f45a896ce.jpg
-coverY: -73
+coverY: -97.22651222651223
 ---
 
 # 👋 Cal.com Handbook
