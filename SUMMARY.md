@@ -12,6 +12,7 @@
 ## HR & Careers
 
 * [👷 Contract-to-hire trials](hr-and-careers/contract-to-hire-trials.md)
+* [🛫 Onboarding](hr-and-careers/onboarding.md)
 * [🏆 IC Levels](hr-and-careers/ic-levels.md)
 * [💡 Sharing your views](hr-and-careers/sharing-your-views.md)
 
