@@ -6,7 +6,7 @@ description: As part of our monorepo, we have some private git submodules that a
 
 ### Why?
 
-Although we try to keep as much of our codebase as possible open source. We don't want to make it too easy for a wanna be competitor or copy-cat to just clone our repo and setup mycal.com to compete with us, thus, some more sensitive parts of our codebase, like our landing / marketing pages at cal.com, or our Public API for self-hosted enterprise customers will remain private closed source repos, which will live under git private submodules in our main monorepo.
+Although we try to keep as much of our codebase as possible open source. We don't want to make it too easy for a wanna be competitor or copy-cat to just clone our repo and setup mycal.com to compete with us, thus, some more sensitive parts of our codebase or like our landing / marketing pages at cal.com will remain private closed source repos, which will live under git private submodules in our main monorepo.
 
 ### Website
 
