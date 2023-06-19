@@ -14,7 +14,7 @@ We’ve tried to make our PTO policy as simple as possible. If you’re in a par
 | Public holidays           | 7             | See list below.                       |
 | Sick days                 | as you need   | Paid in full.                         |
 
-### Recognised Public Holidays
+### Recognized Public Holidays
 
 * Martin Luther King Day
 * Memorial Day
@@ -28,7 +28,7 @@ We’ve tried to make our PTO policy as simple as possible. If you’re in a par
 
 1. Never feel bad for taking time off for being sick, spending time with your family, or any other priority in your life. This is what PTO is for, so make sure you use it :)
 2. Post your OOO in the standups channel with as much notice as possible (if necessary, mention what projects are open and if you need help from someone)
-3. Set your Threads status to "🚫 OOO" to inform your colleagues, and mark yourself OOO as an event in the team Calendar
+3. Set your Threads status to "🚫 OOO" to inform your colleagues, and mark yourself OOO as an event in the team calendar
 4. Keep track of your OOO days in a spreadsheet or note-taking app for yourself
 5. We'll occasionally ask you if you've taken any days off as a reminder
 6. Please be mindful of not taking PTO during a high-priority project or immediately after a launch (in case you are needed for debugging). If you do have to be away, then please ensure all knowledge is transferred to someone else in the team so they can effectively cover your position.
@@ -39,7 +39,7 @@ We’ve tried to make our PTO policy as simple as possible. If you’re in a par
 ## How to Vacation
 
 1. Add to Team Calendar and Copy to Personal Calendar
-2. Put yourself as OOO in Twist.com
+2. Put yourself as OOO in Threads
 3. Create a Vacation Auto-Responder (email)
 4. Check with team members in your department on responsibilities that need to be taken care of.
 
@@ -49,7 +49,7 @@ If you're out for part of a day, you don't need to block out the specific time i
 
 1. No need to report anything that's less than three hours&#x20;
 2. No need for a reason, unless it's absolutely necessary
-3. Feel free to use Twist's OOO feature to put your notifications on "do not disturb"
+3. Feel free to use Thread's OOO feature to put your notifications on "do not disturb"
 
 ## Vacation accrual
 
