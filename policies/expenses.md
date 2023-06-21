@@ -107,6 +107,12 @@ If you require something which is not listed on the form please contact [complia
 
 * Cal.com offers a streaming stipend to allow anyone committed to streaming to purchase streaming materials (e.g. microphone, lights, etc). Please message Bailey and Sydney. This stipend requires some minimum effort to stream.
 
+#### Coworking stipend
+
+We are excited to offer a coworking stipend policy for team members who have been with us for at least six months. This policy allows you to apply for a WeWork All Access pass, granting you access to a wealth of working spaces, subject to certain conditions. Notably, you must commit to utilizing the pass for a full 12 months, ensuring the expense is well utilized. We also request that you live in proximity to a WeWork location to justify the pass usage. Locations can be found on the WeWork website. As part of your pass, you will be granted an allocation of 120 black and white prints and 20 color prints monthly - please be aware that this is part of the company's pooled resource, and it's likely that the whole company's budget will show up under your account.
+
+Be sure to seek authorization before using additional credits as they collectively belong to the company, not individuals. Lastly, please note that the coworking stipend is exclusively for WeWork All Access passes. Due to administrative and tax-related constraints, we cannot offer stipends for day passes, private offices, dedicated desks, or other coworking spaces beyond WeWork. We greatly appreciate your understanding and cooperation as we continue to create a conducive work environment for all our team members.
+
 ### **Education**
 
 Education Stipend can be anything used to better your education to help with your job/position or potential growth at Cal.com. Some examples could be:
