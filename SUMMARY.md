@@ -32,6 +32,7 @@
 * [📚 Keeping Docs up-to-date](engineering/keeping-docs-up-to-date.md)
 * [🌐 HTTPS & Subdomains](engineering/https-and-subdomains.md)
 * [🎯 Best practices](engineering/best-practices/README.md)
+  * [Data fetching](engineering/best-practices/data-fetching.md)
   * [Avoid Prop Drilling](engineering/best-practices/avoid-prop-drilling.md)
   * [Prefer defaultHandler for simple API handlers](engineering/best-practices/prefer-defaulthandler-for-simple-api-handlers.md)
   * [Prefer inferred types over explicit ones](engineering/best-practices/prefer-inferred-types-over-explicit-ones.md)
