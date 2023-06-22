@@ -6,6 +6,7 @@ description: >-
 
 # 🎯 Best practices
 
+* [Data Fetching](data-fetching.md)
 * [Prefer inferred types over explicit ones](prefer-inferred-types-over-explicit-ones.md)
 * [Prefer early returns](prefer-early-returns.md)
 * [Avoid comparing multiple values with `includes`](avoid-comparing-multiple-values-with-includes.md)
