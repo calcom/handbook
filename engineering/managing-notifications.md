@@ -22,6 +22,6 @@ description: >-
 * Go to your [account notification settings](https://github.com/settings/notifications), be sure to toggle off emails and leave only GitHub on:\
   ![](<../.gitbook/assets/image (3).png>)
 * Go to [email settings](https://github.com/settings/emails) and select "Only receive account related emails, and those I subscribe to."\
-  ![](<../.gitbook/assets/image (23).png>)
+  ![](<../.gitbook/assets/image (22).png>)
 
 This should leave you with a cleaner email inbox, feel free to add more suggestions or to update existing tips.

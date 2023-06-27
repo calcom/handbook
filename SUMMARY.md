@@ -57,6 +57,7 @@
   * [🏢 Infrastructure](engineering/product-specs/infrastructure.md)
   * [🏪 App Store](engineering/product-specs/app-store.md)
 * [🔦 Cal.com Status Page](engineering/cal.com-status-page.md)
+* [⭐ Valuable Bookmarks](engineering/valuable-bookmarks.md)
 
 ## Customer Success
 
