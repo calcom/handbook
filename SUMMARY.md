@@ -25,6 +25,7 @@
 ## Engineering
 
 * [🔔 Managing Notifications](engineering/managing-notifications.md)
+* [⭐ Valuable Bookmarks](engineering/valuable-bookmarks.md)
 * [💻 How we work on Tickets](engineering/how-we-work-on-tickets.md)
 * [🐛 How to report issues](engineering/how-to-report-issues.md)
 * [🔥 What to do during Emergencies](engineering/what-to-do-during-emergencies.md)
@@ -57,7 +58,6 @@
   * [🏢 Infrastructure](engineering/product-specs/infrastructure.md)
   * [🏪 App Store](engineering/product-specs/app-store.md)
 * [🔦 Cal.com Status Page](engineering/cal.com-status-page.md)
-* [⭐ Valuable Bookmarks](engineering/valuable-bookmarks.md)
 
 ## Customer Success
 
