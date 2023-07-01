@@ -15,7 +15,7 @@ We merge all reviewed and approved PR's automatically to main, but then on monda
 2. Create a new release in GitHub:\
    [https://github.com/calcom/cal.com/releases/new](https://github.com/calcom/cal.com/releases/new)
 3. Type the new version and hit "Create new tag: vX.Y.Z on publish"\
-   ![](<../../.gitbook/assets/image (14).png>)
+   ![](<../../.gitbook/assets/image (14) (1).png>)
 4. Use the "Create auto generated release text" button\
    ![](<../../.gitbook/assets/image (2) (1).png>)
 5. Publish release\
