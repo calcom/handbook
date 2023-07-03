@@ -11,7 +11,7 @@ We merge all reviewed and approved PR's automatically to main, but then on monda
 ### Step-by-step to release a new version
 
 1. [Bump "version" in `apps/web/package.json` ](https://github.com/calcom/cal.com/edit/main/apps/web/package.json)according to semver standards and stage it in git and "Commit changes"\
-   <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original"> <img src="../../.gitbook/assets/image (8).png" alt="" data-size="original">
+   <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original"> <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
 2. Create a new release in GitHub:\
    [https://github.com/calcom/cal.com/releases/new](https://github.com/calcom/cal.com/releases/new)
 3. Type the new version and hit "Create new tag: vX.Y.Z on publish"\
