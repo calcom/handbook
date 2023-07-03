@@ -4,7 +4,7 @@ To ensure relevance of the documentation we must strictly follow a simple protoc
 There is a tag in Github that says "Needs documentation update", and looks like the following:\
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Documentation update tag</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Documentation update tag</p></figcaption></figure>
 
 Please follow these steps in your PRs from now on:
 
