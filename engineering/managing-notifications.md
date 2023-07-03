@@ -10,18 +10,18 @@ description: >-
 
 **On Neat.run:**
 
-* On the bottom right corner, open controls:![](<../.gitbook/assets/image (9).png>)
+* On the bottom right corner, open controls:![](<../.gitbook/assets/image (16).png>)
 * Make sure to add the following filters to prevent too much clutter:\
-  ![](<../.gitbook/assets/image (17).png>)
+  ![](<../.gitbook/assets/image (11).png>)
 * Feel free to add more muted items if necessary, be careful to not mute too much or your might miss important mentions or notifications.
 
 **On GitHub:**
 
 * On the Cal.com repo, make sure you're subscribed to "Participating and mentions" notifications\
-  ![](<../.gitbook/assets/image (18).png>)
+  ![](../.gitbook/assets/image.png)
 * Go to your [account notification settings](https://github.com/settings/notifications), be sure to toggle off emails and leave only GitHub on:\
-  ![](<../.gitbook/assets/image (11).png>)
+  ![](<../.gitbook/assets/image (18).png>)
 * Go to [email settings](https://github.com/settings/emails) and select "Only receive account related emails, and those I subscribe to."\
-  ![](<../.gitbook/assets/image (16).png>)
+  ![](<../.gitbook/assets/image (13).png>)
 
 This should leave you with a cleaner email inbox, feel free to add more suggestions or to update existing tips.
