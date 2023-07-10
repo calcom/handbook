@@ -101,6 +101,8 @@ If you already have a personal device or peripheral that you are willing to use 
 
 If you require something which is not listed on the form please contact [compliance@cal.com](mailto:compliance@cal.com) and each request will be reviewed individually.
 
+Please note also that you are only eligible to request equipment if you are a full-time employee and have passed any probationary period. We will place any requests made before this point on hold until you are deemed eligible.
+
 #### **Sub-Policies (Workspace)**
 
 **Streaming Stipend**
