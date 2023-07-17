@@ -17,3 +17,18 @@ description: A list of valuable bookmarks for GitHub filters
 * [Review Required](https://github.com/calcom/cal.com/pulls?q=is:pr+is:open+review:required+draft:false)
 * [Open non-draft PRs without changes requested](https://github.com/calcom/cal.com/pulls?q=is:pr+is:open+archived:false+draft:false+-review:changes\_requested+sort:created-asc)
 * [Approved PRs but unmerged](https://github.com/calcom/cal.com/pulls?q=is:pr+is:open+archived:false+draft:false+sort:created-asc+review:approved)
+
+### Per Engineer:
+
+* [Alan](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aalannnc)
+* [Ali](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aalishaz-polymath)
+* [Carina](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3ACarinaWolli)
+* [Alex](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aemrysal)
+* [Hariom](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Ahariombalhara)
+* [Eric](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aericrommel)
+* [Joe](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Ajoeauyeung)
+* [Leo](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aleog)
+* [Sean](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Asean-brydon)
+* [Shivam](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Ashivamklr)
+* [Udit](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3AUdit-takkar)
+* [Zomars](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Azomars)
