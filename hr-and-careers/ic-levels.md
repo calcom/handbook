@@ -24,7 +24,44 @@ As a result of this, we encourage you to look at what each IC band means and con
 
 **IC levels do not determine the complexity of code that you work on.** Although higher IC levels tend to focus on the more foundational code, lower IC levels have an equal opportunity to work on core or complex parts of the code, but there is less of a responsibility to document and maintain it.
 
-* **Level 1** - The most hands-on level. Focus on shipping features and bug fixes, and only worry about a few PR reviews when you are requested.
-* **Level 2** - This level provides you with a mix of working on the product hands-on, with a greater focus on stability and working on foundational features, rather than IC1 which is mainly about shipping code. Here you will be expected to take part in RFCs and PR reviews and have much greater involvement in the code specification and review cycle.
-* **Level 3** - This is a role where you are responsible for the build and deployment cycle, database health, fixing things if something goes wrong, and working on the really deep, foundational level tasks.
-* **Level 4** - IC4 is a team lead, who is someone that ships core code changes, tackles big projects and leads the team to success with pull request reviews and support. It is also a more management-driven role that consists of managing the whole team, leading the direction of the company and the product, and creating change institutionally.
+## **IC1**
+
+* **Role**: Junior engineers are the foundation of our engineering team and play an essential role in developing and maintaining our software.
+* **Responsibilities**:
+  * Contribute to code development, adding new features to the software.
+  * Review Pull Requests and actively participate in code review processes.
+  * Fix software bugs and contribute across various functionalities.
+* **Ownership**: While IC1s make significant contributions, they have limited formal responsibility for the codebase. They sometimes work closely under the guidance of more experienced engineers.
+
+***
+
+## **IC2**
+
+* **Role**: Engineers at this level are expected to delve deeper into the foundational code and provide leadership in project development.
+* **Responsibilities**:
+  * Work with and enhance the core code of the software.
+  * Lead larger projects independently.
+  * Take full ownership and responsibility for designated projects and functionalities.
+* **Leadership**: IC2s not only contribute but also guide and help in the growth of IC1s. They serve as points of reference for certain projects or modules.
+
+***
+
+## **IC3**
+
+* **Role**: IC3s are the backbone of our engineering efforts, holding ultimate responsibility for critical parts of our infrastructure and application.
+* **Responsibilities**:
+  * Oversee and manage the build pipeline and database structures.
+  * Ensure application uptime and be the primary point of contact during application downtimes.
+  * Handle and solve complex backend logic tasks.
+* **Expertise**: IC3s are specialists in timezone logic, Prisma, and possess top-tier TypeScript knowledge. They are often called upon for tasks that require deep technical expertise and understanding.
+
+***
+
+## **IC4**
+
+* **Role**: IC4s lead from the front, guiding the entire engineering team and working closely with collaborators from outside the company.
+* **Responsibilities**:
+  * Mentor, guide, and manage team members across various IC levels.
+  * Lead the direction for the entire engineering team, setting priorities and defining strategies.
+  * Collaborate with external partners and lead integration projects with companies such as Prisma, BoxyHQ, and tRPC.
+* **Leadership**: IC4s are not just experts in their field but are also responsible for the growth and direction of the engineering team. They are the pinnacle of our technical leadership and play an integral role in shaping Cal.com's future.
