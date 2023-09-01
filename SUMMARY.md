@@ -15,7 +15,7 @@
 * [🛫 Onboarding](hr-and-careers/onboarding.md)
 * [🏆 IC Levels](hr-and-careers/ic-levels.md)
 * [💡 Sharing your views](hr-and-careers/sharing-your-views.md)
-* [Bonus & Equity Structure](hr-and-careers/bonus-and-equity-structure.md)
+* [💸 Bonus & Equity Structure](hr-and-careers/bonus-and-equity-structure.md)
 
 ## Policies
 
