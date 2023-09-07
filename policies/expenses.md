@@ -87,15 +87,7 @@ Cal.com approves the use of Linux, and Apple's macOS. Microsoft Windows is prohi
 * macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, Cal.com would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy security guidelines.
 * Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
 
-You can order new equipment from the following form: [https://drive.google.com/file/d/1LbJfSbLE2cuAFVgk61gEImKYPI9bEMFN/view?usp=share\_link](https://drive.google.com/file/d/1LbJfSbLE2cuAFVgk61gEImKYPI9bEMFN/view?usp=share\_link)
-
-When ordering this equipment, please follow the below steps:
-
-1. Download the above form
-2. Fill out the form and send it back to [compliance@cal.com](mailto:compliance@cal.com)
-3. [Connor Gargano](mailto:connor@cal.com) will then review the form, once confirmed your order will be processed within 24 hours and you should receive confirmation via your cal.com email address.
-
-We try to keep expenses low so please only order equipment when necessary. (This also includes not purchasing from the optional categories if you do not need the equipment)
+You can order new equipment from the following form: [https://forms.gle/qeLEKrtj2X1yTNaDA](https://forms.gle/qeLEKrtj2X1yTNaDA)
 
 If you already have a personal device or peripheral that you are willing to use please don't buy a duplicate through Cal.com.&#x20;
 
