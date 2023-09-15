@@ -5,3 +5,10 @@
 2\) Unnecessary data exposure: Selecting all columns exposes sensitive data that might not be required by your application. This can pose security risks, especially if the table contains sensitive user information or proprietary data. (In our case app credentials and booking information)
 
 &#x20;![](<../../.gitbook/assets/ray-so-export (5).png>)
+
+TLDR: Never use Includes - use select
+
+* Select selects only the fields you specify explicitly
+* Include selects the relationship AND all the fields of the table the relationship belongs to
+
+{% embed url="https://www.prisma.io/docs/concepts/components/prisma-client/select-fields" %}
