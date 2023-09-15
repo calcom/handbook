@@ -1,4 +1,4 @@
-# Bonus & Equity Structure
+# 💸 Bonus & Equity Structure
 
 #### **Equity Retainers**
 

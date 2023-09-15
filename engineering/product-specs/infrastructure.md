@@ -27,7 +27,7 @@ To get access to the API, a customer must first be invited by the team to signup
 2. Then customers are able to jump to Step 4 and request API Access
    1. Which opens up this Gmail message:
       1. ![](<../../.gitbook/assets/CleanShot 2022-07-25 at 09.43.41@2x.png>)
-      2. Once they share their Github usernames, the email goes to team@cal.com and [Agusti Fernandez Pardo](http://localhost:5000/u/rohoKMreDNW1b1YQfzGAjB3P1Qi1 "mention")invites them to the repo in Github (adding collaborators)
+      2. Once they share their Github usernames, the email goes to team@cal.com and [Agusti Fernandez Pardo](http://127.0.0.1:5000/u/rohoKMreDNW1b1YQfzGAjB3P1Qi1 "mention")invites them to the repo in Github (adding collaborators)
 
 ## Self-Hosting FAQs
 

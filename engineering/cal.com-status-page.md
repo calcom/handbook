@@ -2,7 +2,7 @@
 
 We have a status page at status.cal.com. Credentials can be found in Bitwarden.
 
-If there’s an incident you’re aware of, please log in and report it so it appears on the status page. Message [Bailey Pumfleet](http://localhost:5000/u/hPuJel8hUYNpA3g72VGJHk6YSy73 "mention") with any questions.
+If there’s an incident you’re aware of, please log in and report it so it appears on the status page. Message [Bailey Pumfleet](http://127.0.0.1:5000/u/hPuJel8hUYNpA3g72VGJHk6YSy73 "mention") with any questions.
 
 
 
