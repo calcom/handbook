@@ -27,6 +27,5 @@ description: A list of valuable bookmarks for GitHub filters
 * [Eric](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Aericrommel)
 * [Joe](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Ajoeauyeung)
 * [Sean](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Asean-brydon)
-* [Shivam](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Ashivamklr)
 * [Udit](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3AUdit-takkar)
 * [Zomars](https://github.com/calcom/cal.com/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+assignee%3Azomars)
