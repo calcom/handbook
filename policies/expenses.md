@@ -55,17 +55,6 @@ Any software that is deemed appropriate and needed for you to do your job well. 
 
 For any company-wide SaaS subscriptions (that will be shared), message Peer, Bailey or Sydney. We will purchase licenses in bulk for discounts.
 
-### **Well-Being**
-
-The Well-Being stipend includes any wellness for business products, such as&#x20;
-
-* [https://www.headspace.com/work](https://www.headspace.com/work)
-* [https://business.calm.com/](https://business.calm.com/)
-
-and similar
-
-We currently do not expense gym memberships.
-
 ### **Workspace**
 
 The workspace stipend will be split into 2 sections: Workspace Furniture and IT Equipment.
