@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/image (2).png>)
 
-1. Edit [https://github.com/calcom/cal.com/edit/main/packages/ui/v2/modules/tips/Tips.tsx](https://github.com/calcom/cal.com/edit/main/packages/ui/v2/modules/tips/Tips.tsx)&#x20;
+1. Edit [https://github.com/calcom/cal.com/blob/main/packages/features/tips/Tips.tsx](https://github.com/calcom/cal.com/blob/main/packages/features/tips/Tips.tsx)
 2. add a new {object}
 3. increase id by one
 4. create a new youtube thumbnail [https://img.youtube.com/vi/\<youtubeId>/0.jpg](https://img.youtube.com/vi/60HJt8DOVNo/0.jpg%22,)
