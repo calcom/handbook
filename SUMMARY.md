@@ -49,7 +49,7 @@
 * [💻 Codebase](engineering/codebase/README.md)
   * [🚫 Git Private Submodules](engineering/codebase/git-private-submodules.md)
   * [🏎 Monorepo / Turborepo](engineering/codebase/monorepo-turborepo.md)
-  * [🌝 Merging (Monday)](engineering/codebase/merging-monday.md)
+  * [🌝 Deploying to Production](engineering/codebase/merging-monday.md)
   * [☁ Deployment](engineering/codebase/deployment.md)
   * [💻 Debug Desktop App](engineering/codebase/debug-desktop-app.md)
   * [🚩 Enabling/Disabling Features](engineering/codebase/feature-flags.md)
