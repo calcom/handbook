@@ -46,6 +46,7 @@
   * [Prefer ternaries over Short Circuiting “&&” for React Components](engineering/best-practices/prefer-ternaries-over-short-circuiting-and-and-for-react-components.md)
   * [Don't modularize prematurely](engineering/best-practices/dont-modularize-prematurely.md)
   * [Only select data you need](engineering/best-practices/only-select-data-you-need.md)
+  * [Disallowing the use of unrestricted Metadata fields](engineering/best-practices/disallowing-the-use-of-unrestricted-metadata-fields.md)
 * [💻 Codebase](engineering/codebase/README.md)
   * [🚫 Git Private Submodules](engineering/codebase/git-private-submodules.md)
   * [🏎 Monorepo / Turborepo](engineering/codebase/monorepo-turborepo.md)
