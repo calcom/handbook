@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1502101872923-d48509bff386?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzdGFpcnN8ZW58MHx8fHwxNjk5Mjk2OTkwfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # ⛰ Engineering Levels
 
 ### Base expectations for all engineers at any level
