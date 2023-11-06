@@ -13,7 +13,12 @@
 
 * [👷 Contract-to-hire trials](hr-and-careers/contract-to-hire-trials.md)
 * [🛫 Onboarding](hr-and-careers/onboarding.md)
-* [🏆 IC Levels](hr-and-careers/ic-levels.md)
+* [🏆 IC Levels](hr-and-careers/ic-levels/README.md)
+  * [⛰ Engineering Levels](hr-and-careers/ic-levels/engineering-levels/README.md)
+    * [🕵 IC1 Engineer (Code Cadet)](hr-and-careers/ic-levels/engineering-levels/ic1-engineer-code-cadet.md)
+    * [👷♀ IC2 Engineer (Code Craftsperson)](hr-and-careers/ic-levels/engineering-levels/ic2-engineer-code-craftsperson.md)
+    * [🧘♀ IC3 Engineer (Code Connoisseur)](hr-and-careers/ic-levels/engineering-levels/ic3-engineer-code-connoisseur.md)
+    * [🧙♂ IC4 Engineer (Code Wizard)](hr-and-careers/ic-levels/engineering-levels/ic4-engineer-code-wizard.md)
 * [💡 Sharing your views](hr-and-careers/sharing-your-views.md)
 * [💸 Bonus & Equity Structure](hr-and-careers/bonus-and-equity-structure.md)
 
