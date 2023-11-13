@@ -27,6 +27,7 @@ When you're joining the team, make sure to join the "Cal.com, Inc." Linear team 
   * For tracking milestones, we use Linear Projects (v3.5, v3.6, etc.). This view will be automatically filtered based on our current milestone.
     * **Project** in Linear lines up to the **Milestone** in GitHub (for now because cycles in Linear don't work well for lining up the dates)
   * This is what will always be kept up to date by the Product team. **Do not start work on something unless it's listed here.** If you think something needs to be taken on and it's not yet in this view, contact the Product team.
+  * We should take work from the top down in terms of priority. It should be rare you find yourself taking on work that has lower priority than other issues with higher priority that have not yet been started. If you don't feel comfortable starting an issue with higher priority for whatever reason, contact someone from the **Product** team.
 * If any items are marked as **Urgent**, drop what you are doing and pick up the issue.
   * Assign yourself and change its status to **In Progress.**
   * If an **Urgent** item is already assigned but no marked as **In Progress**, contact that person and check on the status. If it's actually not in progress, take it. If it is in progress, mark it as **In Progress** in Linear.
