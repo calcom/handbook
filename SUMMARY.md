@@ -32,8 +32,8 @@
 
 * [🔔 Managing Notifications](engineering/managing-notifications.md)
 * [⭐ Valuable Bookmarks](engineering/valuable-bookmarks.md)
-* [💻 How we work on Tickets](engineering/how-we-work-on-tickets.md)
 * [🐛 How to report issues](engineering/how-to-report-issues.md)
+* [💻 How we work on Tickets](engineering/how-we-work-on-tickets.md)
 * [🔥 What to do during Emergencies](engineering/what-to-do-during-emergencies.md)
 * [✅ PR Reviews](engineering/pr-reviews.md)
 * [☑ Self-reviews](engineering/self-reviews.md)

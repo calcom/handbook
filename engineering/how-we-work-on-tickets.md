@@ -12,16 +12,26 @@ Non-team members such as open-source contributors can continue to create tickets
 
 The roadmap will continue to be public: [cal.com/roadmap](https://cal.com/roadmap).
 
-We run on a monthly tagged release schedule with a weekly minor release each Monday.
-
-For tracking milestones, we use Linear Projects (v.2.2, v.2.3, etc.).
-
-
+We run on a monthly tagged release schedule with multiple minor releases each week.
 
 When you're joining the team, make sure to join the "Cal.com, Inc." Linear team and then visit [synclinear.com](https://synclinear.com)
 
 * click "Connect to Linear" and make sure to select the “Engineering team” on the Linear dropdown and not “Product team”
 * click "Connect to GitHub" and select calcom/cal.com
+
+## Process for taking on work
+
+**It's extremely important all engineers follow this process. Otherwise, keeping milestones up to date with the latest and greatest prioritized work is almost impossible.**
+
+* Source of truth: [Priority engineering view](https://linear.app/calcom/view/b58fd0a4-3637-4980-b26a-5a4a3fd2e8ec) in Linear
+  * For tracking milestones, we use Linear Projects (v3.5, v3.6, etc.). This view will be automatically filtered based on our current milestone.
+    * **Project** in Linear lines up to the **Milestone** in GitHub (for now because cycles in Linear don't work well for lining up the dates)
+  * This is what will always be kept up to date by the Product team. **Do not start work on something unless it's listed here.** If you think something needs to be taken on and it's not yet in this view, contact the Product team.
+* If any items are marked as **Urgent**, drop what you are doing and pick up the issue.
+  * Assign yourself and change its status to **In Progress.**
+  * If an **Urgent** item is already assigned but no marked as **In Progress**, contact that person and check on the status. If it's actually not in progress, take it. If it is in progress, mark it as **In Progress** in Linear.
+* If there are no **Urgent** items, take an item you are comfortable working on from the **next highest item in the list.**&#x20;
+  * Note: This list can be manually prioritized, which will be handled by the Product team. **Do not move items around.**
 
 ## Linear Tips and Tricks
 
