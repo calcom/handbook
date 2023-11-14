@@ -12,7 +12,7 @@ In 1967, Albert Mehrabian came up with the “7%-38%-55%” rule determining tha
 2. The tone of delivery in your voice (38%), and
 3. The body language accompanying your words and voice (55%).
 
-***
+
 
 ## The PREACH Model
 

@@ -25,7 +25,7 @@ Threads.com has:
 
 ### The "Thread Police"
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 One thing we've adopted company-wide is the "Thread Police" 🚓🚓🚓🚓  essentially when a conversation either goes out-of-topic or is too sync-heavy (i.e. too many people chiming in, too many different opinions etc.) we move things into an async thread.&#x20;
 

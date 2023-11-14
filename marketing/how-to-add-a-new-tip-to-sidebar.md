@@ -2,7 +2,7 @@
 
 ### What's a Tip?
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 1. Edit [https://github.com/calcom/cal.com/blob/main/packages/features/tips/Tips.tsx](https://github.com/calcom/cal.com/blob/main/packages/features/tips/Tips.tsx)
 2. add a new {object}
