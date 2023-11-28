@@ -64,7 +64,11 @@ The workspace stipend will be split into 2 sections: Workspace Furniture and IT 
 The workspace furniture stipend allows you to purchase any of the following:
 
 * Computer Desks
+  * You can only expense pretty simple desks, not one of those huge multi-piece ones that has like 3 full filing cabinets attached to it
 * Chairs
+  * These are limited to a maximum price of $150
+
+Basically, just go to IKEA and get something reasonable :)
 
 You should see this as a Ramp card in your account.
 
