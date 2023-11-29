@@ -52,6 +52,7 @@
   * [Don't modularize prematurely](engineering/best-practices/dont-modularize-prematurely.md)
   * [Only select data you need](engineering/best-practices/only-select-data-you-need.md)
   * [Disallowing the use of unrestricted Metadata fields](engineering/best-practices/disallowing-the-use-of-unrestricted-metadata-fields.md)
+  * [E2E Tests Best Practices](engineering/best-practices/e2e-tests-best-practices.md)
 * [💻 Codebase](engineering/codebase/README.md)
   * [🚫 Git Private Submodules](engineering/codebase/git-private-submodules.md)
   * [🏎 Monorepo / Turborepo](engineering/codebase/monorepo-turborepo.md)
