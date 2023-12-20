@@ -6,148 +6,147 @@ coverY: 0
 
 # 💳 Expenses
 
-**Scope**
+This policy applies to all our employees that need to spend money on work-related activities/items. The idea of this policy is to keep it simple, rather than have a 3000 word that nobody can actually understand. Hence, if something isn’t clear, clarify it with Bailey before spending.\
 
-This policy applies to all our employees that need to spend money on work-related activities/items. All items should be charged to the appropriate Ramp card. If reimbursement is needed, we will reimburse all reasonable business expenses, after they are approved, in part or in full, depending on their alignment with this policy.
 
-#### **Policy elements**
+Everything should be charged to the appropriate Ramp card. Do not pay for it yourself and reimburse, unless you have approval from Bailey.\
 
-Employee expenses fall under two categories:
 
-* Expenses that are paid directly by our company on behalf of employees (on your Ramp card).
-* Expenses that are paid by our employees and are reimbursable.
+If reimbursement is needed, we will reimburse the mentioned business expenses, after they are approved, in part or in full, depending on their alignment with this policy.
 
-We’ll reimburse all reasonable business expenses, after they are approved, in part or in full as the case may be.
+## Business trips
 
-### **Company-Wide SaaS**
+There are two categories of business trip:
 
-For any SaaS that is relevant for the entire org (such as Sendgrid, Vercel, etc.), please talk to Bailey or Peer first and then use the "Company-wide SaaS" card in Bitwarden.
+* Job-related trip\
+  This type of trip is where you are told by leadership that you are required to travel for business purposes in relation to your job role. This is considered to be a part of your responsibilities, and it’s generally expected for you to attend.
+* Optional trip\
+  This type of trip is where there is either an open offer posted in a group chat, or you’re directly invited by a member of leadership to join in with a trip. These are completely optional, and there is no pressure to join.
 
-### **Travel Expenses**
+Pretty much everything when it comes to expense rules depends on which of the above two categories your trip falls under.
 
-Travel expenses include any kind of transportation and accommodation expenses that you incur when going on a business trip. Expenses related to this category that may be fully or partly reimbursable include:
+### Allowed expenses
 
-* Accommodation
-* Legal document expenses (e.g. Visa)
-* Air, train, ship, or other transportation fares
-* Necessary medical expenses (e.g. vaccinations)
-* Local transportation during trips (taxi fares, rental cars, etc.)
+These two lists set out the things you’re allowed to expense based on the type of trip. For anything that’s not on this list, seek approval from Bailey before spending.
+
+#### Job-related
+
+* Accommodation, if not already arranged for you
+* Legal document expenses, such as a visa
+* Air, train, ship or other international transportation fares
+* Local transportation during the trip
 * Other minor or per diem expenses that have been approved by an employee’s manager (e.g. meals, business material)
-* Medical care fees after travel-related accidents may be covered by workers' compensation insurance. If not, we may reimburse you for your medical expenses, if appropriate.
 
-We only allow expensing of economy (or whichever the most basic) class of travel is, and in the case that baggage costs apply, we only allow expensing of the minimum amount of baggage required for you to travel.
+#### Optional
 
-#### **Sub-Policies (Travel)**
+* Accommodation, if not already arranged for you
+* Air, train, ship or other international transportation fares
 
-#### **Visit Your Co-Worker Stipend**
+### ‘Cheapest viable option’ rule
 
-* This stipend specifically covers transportation expenses for anyone wanting to visit a co-worker vis air, train, ship, space travel or other transportation fares.
-* We require a minimum of three coworkers to meet in order for you to be eligible for this.
-* This stipend is subject to fair usage limits, as travel can get quite expensive.
-* You must obtain approval for these trips.
+All transportation fares, both international and local, are subject to the cheapest viable option rule. This just means using a common-sense approach of going for the cheapest option, unless it’s significantly worse.
 
-### **Personal SaaS**
+For instance, if Joe wants to fly to New York, it’s cheaper to get to Toronto and just take the one flight from Toronto to New York rather than getting the connecting flight from his nearest city too. But to get to Toronto by bus would take 7 hours, so that’s unreasonable and hence it’s all good to expense the connecting flight direct from his city.
 
-Any software that is deemed appropriate and needed for you to do your job well. Some examples could be:
+#### International transportation
 
-* Grammarly
-* VS Code extensions
+When booking a flight, go to comparison sites (we recommend Skyscanner and Google Flights), and find the cheapest flight to get to your destination. Pick the first and cheapest option, not the airline you want to collect points with :)
 
-For any company-wide SaaS subscriptions (that will be shared), message Peer, Bailey or Sydney. We will purchase licenses in bulk for discounts.
+We only allow expensing of economy (or whichever the most basic) class of travel is. None of those $30k Emirates flights where you get an entire room on the plane…
 
-### **Workspace**
+All tickets include some form of baggage allowance, such as a personal item, and that’s the extent of what we’ll cover, unless we’re requiring you to bring certain things that require extra baggage space.
 
-The workspace stipend will be split into 2 sections: Workspace Furniture and IT Equipment.
+You’re more than welcome to purchase additional upgrades and baggage as a separate transaction on your own card. Usually, you can just make the booking under the company card, then on the ‘manage booking’ page, upgrade and use your own card.
 
-**Workspace Furniture**
+#### Local transportation
 
-The workspace furniture stipend allows you to purchase any of the following:
+One of the most prominent examples of this is for local transport, where you should be using public transportation. We’re not going to allow expensing an $80 Uber ride when you could have taken the subway for $2.90, for instance.\
 
-* Computer Desks
-  * You can only expense pretty simple desks, not one of those huge multi-piece ones that has like 3 full filing cabinets attached to it
-* Chairs
-  * These are limited to a maximum price of $150
 
-Basically, just go to IKEA and get something reasonable :)
+Examples where it’s acceptable to go for Uber and other ridesharing apps:
 
-You should see this as a Ramp card in your account.
+* If you’re sharing the ride with other coworkers and it is cheaper to pool in one ride
+* If you’re transporting company equipment where it’s not practical or safe to do so via public transportation
+* If there’s a safety concern (please don’t ride the BART in SF at 2am)
+* If public transportation will take significantly longer
 
-**Ordering IT Equipment**
+## Software
 
-Cal.com approves the use of Linux, and Apple's macOS. Microsoft Windows is prohibited for the following reasons:
+For any SaaS products that are relevant to the entire company, such as SendGrid or Vercel, please talk to Bailey and then use the “Company-wide SaaS” card in Bitwarden.\
 
-* Due to Microsoft Windows' [dominance in desktop operating systems](https://en.wikipedia.org/wiki/Usage\_share\_of\_operating\_systems#Desktop\_and\_laptop\_computers), Windows is the platform most targetted by spyware, viruses, and ransomware.
-* macOS is preinstalled on Apple computers and Linux is available free of charge. To approve the use of Windows, Cal.com would have to purchase Windows Professional licenses, as Windows Home Edition does not satisfy security guidelines.
-* Windows Home Edition is notoriously [hard to secure](https://www.markloveless.net/blog/2019/1/15/dealing-with-windows-10).
 
-You can order new equipment from the following form: [https://forms.gle/qeLEKrtj2X1yTNaDA](https://forms.gle/qeLEKrtj2X1yTNaDA)
+For software products that will be used individually, get approval from Bailey. Make sure the product is directly related to your job and yields a benefit in your performance. For instance if you’re a content writer, then Grammarly makes a lot of sense. But if you’re an engineer, you don’t need Grammarly - feel free to misspell all of your GitHub PR descriptions. Just kidding.
 
-If you already have a personal device or peripheral that you are willing to use please don't buy a duplicate through Cal.com.&#x20;
+## Workspace
 
-If you require something which is not listed on the form please contact [compliance@cal.com](mailto:compliance@cal.com) and each request will be reviewed individually.
+The process here is different depending if you’re looking to get furniture or an actual laptop and IT equipment.
 
-Please note also that you are only eligible to request equipment if you are a full-time employee and have passed any probationary period. We will place any requests made before this point on hold until you are deemed eligible.
+### IT equipment
 
-#### **Sub-Policies (Workspace)**
+Here you can request equipment: [https://forms.gle/qeLEKrtj2X1yTNaDA](https://forms.gle/qeLEKrtj2X1yTNaDA)\
 
-**Streaming Stipend**
 
-* Cal.com offers a streaming stipend to allow anyone committed to streaming to purchase streaming materials (e.g. microphone, lights, etc). Please message Bailey and Sydney. This stipend requires some minimum effort to stream.
+If you already have a personal device or peripheral that you are willing to use please don't buy a duplicate through Cal.com.
 
-#### Coworking stipend
+If you require something which is not listed on the form, please contact compliance@cal.com and each request will be reviewed individually.
 
-We are excited to offer a coworking stipend policy for team members who have been with us for at least six months. This policy allows you to apply for a WeWork All Access pass, granting you access to a wealth of working spaces, subject to certain conditions. Notably, you must commit to utilizing the pass for a full 12 months, ensuring the expense is well utilized. We also request that you live in proximity to a WeWork location to justify the pass usage. Locations can be found on the WeWork website. As part of your pass, you will be granted an allocation of 120 black and white prints and 20 color prints monthly - please be aware that this is part of the company's pooled resource, and it's likely that the whole company's budget will show up under your account.
+You are only eligible to request equipment if you are a full-time employee and have passed any probationary period (usually a few months after employment). We will place any requests made before this point on hold until you are deemed eligible.
 
-Be sure to seek authorization before using additional credits as they collectively belong to the company, not individuals. Lastly, please note that the coworking stipend is exclusively for WeWork All Access passes. Due to administrative and tax-related constraints, we cannot offer stipends for day passes, private offices, dedicated desks, or other coworking spaces beyond WeWork. We greatly appreciate your understanding and cooperation as we continue to create a conducive work environment for all our team members.
+### Furniture
 
-### **Education**
+The workplace furniture stipend allows you to purchase a desk and a chair.
 
-Education Stipend can be anything used to better your education to help with your job/position or potential growth at Cal.com. Some examples could be:
+You can only expense fairly simple desks, not one of those huge multi-piece ones that has like 3 full filing cabinets attached to it.
 
-* Courses
-* Bootcamps
+Chairs are limited to a maximum price of $150. None of those fancy Herman Millers…
 
-Please be mindful that the educational parts should impact your work at Cal.com. Cooking classes are hard (impossible) for us to reconcile. Get approval for your education stipend purchases from your manager.
+Basically, just go to IKEA and get something reasonable. There’s a Ramp card assigned to you for workplace furniture to use for this.
 
-#### **Non-reimbursable expenses**
+## Education
 
-We won’t reimburse the following:
+You can expense things like courses and books that are directly related to your job or position at Cal.com, including future job positions you may be going for within the company. You can request the purchase of any of these by asking Bailey or Peer.
 
-* Expenses incurred by spouses or other non-employees who accompany our employees on their travels
-* Un-authorized/non-approved service upgrade (e.g. business class or hotel rooms)
+## Uploading your documentation
+
+Ramp makes it super easy to upload receipts and submit memos for each of your transactions.
+
+For all transactions above $75 USD, you must upload an invoice.
+
+For transactions under that limit, we require either an invoice or if it’s obvious by the statement descriptor what it’s for (e.g. Grammarly), then a detailed memo will suffice. If it says something like “Best Buy”, which could be any number of products, we’ll need a receipt.
+
+If you’re just providing a note, you’ll need to explain precisely what it is, why it is relevant to the business and any further justification. This is important for demonstrating the expense and its necessity to the IRS.
+
+Please note that invoices have to conform to legal standards and requirements and must have the company name and address printed on it. We can’t accept a piece of paper with “$20 for a bluetooth keyboard” handwritten on it.
+
+## Other (obvious) rules
+
+Here’s a few things that may have been covered in sections above, but are just to outline some of the things it’s important to make clear.
+
+### You can’t expense:
+
+* Anything incurred by spouses or other non-employees
+* Unauthorised or unscheduled business meetings with clients, partners or job candidates
+* Unauthorised/non-approved service upgrades (e.g. business class or hotel rooms)
 * Personal services (beauty treatments etc.)
 * Personal purchases (gifts, clothes, etc.)
 * Lost personal property (e.g. luggage)
+* Baggage oversize or overweight charges
+* Fines or penalties
+* Personal trips, including if you go and do something for personal enjoyment whilst on a business trip
 
-This list is not exhaustive. Please ask Peer or Bailey about reimbursable expenses before you go on a business trip.
+Essentially, anything that you only have to pay for due to your own fault, for instance if you damaged a rental car and had to pay, that’s not expensable.
 
-#### **What are work-related expenses?**
+### You need to:
 
-This category includes expenses that are related to an employee either in the form of a benefit (e.g. work laptop) or entertainment expenses that may occur in a business setting (e.g. professional dinners with clients or colleagues.)
+* Document all expenses, including confirmations, receipts, invoices and anything that could be relevant.
+* Provide a reason why that expense was necessary
+  * For transportation, you should explain why you used that method of transportation
+* Upload and submit all documentation relating to your expenses within 7 days after the transaction.
 
-These expenses may be capped and Peer/Bailey should approve them. If you spend more than the approved amount, you must cover the extra cost yourself.
+### Audits and non-compliance
 
-We won’t reimburse the following work expenses:
+All transactions and reimbursements are regularly audited to make sure that we’re all in compliance with these rules. We take all of these rules very seriously, because every transaction that you make opens us up to liability with the IRS if the proper documentation isn’t in place.
 
-* Unauthorized or unscheduled business meetings with clients, partners or job candidates
-* Fines incurred while driving a company vehicle
-* Non-business subscriptions/training
-* Personal trips
-* This list is not exhaustive. Please ask Peer/Bailey about reimbursable expenses before you submit a claim.
+Hence, if you’re found not to be in compliance with these rules, not uploading the correct stuff in good time or anything else mentioned here, we will cancel any cards immediately and restrict ability to make future purchases and reimbursements. I want to be focusing on building a billion dollar company, not navigating IRS audits and investigations :)
 
-#### **Procedure**
-
-When you plan to go on work-related trips or purchase using your allocated stipend. You need to:
-
-* Document any expenses/items that our company hasn’t directly arranged for (e.g. taxi fares)
-* Please ask for bills and receipts whenever you can (when travelling, you might also receive a per diem sum to cover other necessary travel expenses)
-* Submit your reimbursement claim through Ramp or submit your receipt to [receipts@ramp.com](mailto:receipts@ramp.com) with a memo. _Please submit your claim/report within 7 days after purchasing._
-
-Your manager or HR is responsible for approving reimbursement claims. If your manager approves your expenses, you will receive your reimbursement within \[two] pay periods directly into your bank account that you linked to Ramp.
-
-When you incur work-related expenses, you should:
-
-* Ask for your manager’s approval.
-* Submit a reimbursement claim.
-
-We’ll investigate any excessive expenses. In cases of consistent falsified or exaggerated claims, we'll need to revise the policies or remove access to certain categories.
+\
