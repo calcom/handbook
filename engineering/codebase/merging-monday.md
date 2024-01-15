@@ -21,3 +21,14 @@ We merge all reviewed and approved PR's to `main` and then merge to the `product
 5. Publish release\
    ![](<../../.gitbook/assets/image (11) (1).png>)
 6. Profit!
+
+### Check for migrations
+
+This is important. When doing a release make sure you run proper migrations first.
+
+Also, important sidenote, if a migration is adding a new table. We need to re-grant proper permissions to each created username that are currently being user. Run these commands for each username (Replcing \<USERNAME> with the proper one):
+
+```
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO <USERNAME>;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO <USERNAME>;
+```
