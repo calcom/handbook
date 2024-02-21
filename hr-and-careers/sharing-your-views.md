@@ -23,7 +23,3 @@ We're trying to keep this as simple as possible, so we've laid out some core pri
 > * we tolerate everything but intolerance
 > * we ask you to spend time campaigning outside of the workspace
 > * **focus on connecting 1B people by 2031** – that's likely more political impact (reducing bureaucracy, saving time for government appointments, increasing GDP by digitising manual processes)
->
-> #### **Recent examples where Cal.com got involved:**&#x20;
->
-> We've previously been politically active with [https://cal.com/ukraine](https://cal.com/ukraine). That's because it checks the box of intolerance against the tolerant. A foreign country invaded a sovereign country. This is not a left/right opinion but against international law and ethics.
