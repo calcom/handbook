@@ -26,6 +26,7 @@ description: >-
   * **Typical timeframe**
     * 1-3 years
     * You need to consistently demonstrate skills of an IC4 in order to be promoted.
+    * You do **not** need to work on **Foundation** team to move to IC4.
   * **Lead complex initiatives**
     * Take ownership of complex, company-wide technical initiatives, and demonstrate your ability to plan, lead, and successfully deliver them.
       * Example: Our production database is in us-east-2 but our serverless functions are in us-east-1, causing a system-wide reduction in performance. What do we do?

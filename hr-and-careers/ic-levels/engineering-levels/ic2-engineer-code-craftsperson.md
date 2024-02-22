@@ -18,6 +18,7 @@ description: >-
   * **Typical timeframe**
     * 2-4 years
     * You need to consistently demonstrate skills of an IC3 in order to be promoted.
+    * You do **not** need to work on **Foundation** team to move to IC3.
   * **Lead by example**
     * Be a role model for junior and mid-level engineers by consistently delivering high-quality work, following best practices, and actively participating in code reviews and knowledge sharing.
   * **Initiate and drive projects**
