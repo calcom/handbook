@@ -8,10 +8,12 @@ description: >-
 
 * **Role**: IC3s are the backbone of our engineering efforts, holding ultimate responsibility for critical parts of our infrastructure and application.
 * **Responsibilities**:
-  * Oversee and manage the build pipeline and database structures.
-  * Ensure application uptime and be the primary point of contact during application downtimes.
   * Handle and solve complex backend logic tasks.
   * Plan, build and maintain complex features.
+  * Tackle technical debt to help the team build more efficiently.
+  * Be a mentor to your teammates. When they are stuck, you should proactively help them push work to completion.
+  * Ensure application uptime and be the primary point of contact during application downtimes. (DevOps realm)
+  * Oversee and manage the build pipeline and database structures. (DevOps realm)
 * **Learning:**&#x20;
   * IC3 engineers should now start learning about how to help other engineers be more productive.&#x20;
   * They should actively research new technologies, architectural and design patterns, examine trade-offs for long-term technical decisions.
