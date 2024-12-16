@@ -6,6 +6,10 @@ coverY: -214.27701232777375
 
 # ❓ What is Cal.com?
 
+{% embed url="https://www.youtube.com/watch?v=V2Pripb427E" %}
+Bailey Pumfleet on building an open source rocketship ("Stripe for Time")
+{% endembed %}
+
 ### General
 
 From the very first day, [Cal.com](http://cal.com/) started to connect 1 billion people by 2031. We fundamentally believe **infrastructure software** needs to be open, accessible, and here to stay. To achieve this, we started out as an open-source company from its inception.
