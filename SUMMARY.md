@@ -62,11 +62,6 @@
   * [💻 Debug Desktop App](engineering/codebase/debug-desktop-app.md)
   * [🚩 Enabling/Disabling Features](engineering/codebase/feature-flags.md)
 * [🔺 Resolving failed migration on Vercel Preview](engineering/resolving-failed-migration-on-vercel-preview.md)
-* [📃 Product Specs](engineering/product-specs/README.md)
-  * [⭐ Premium usernames](engineering/product-specs/premium-usernames.md)
-  * [✏️ Routing Forms/Event Routing](engineering/product-specs/routing-forms-event-routing.md)
-  * [🏢 Infrastructure](engineering/product-specs/infrastructure.md)
-  * [🏪 App Store](engineering/product-specs/app-store.md)
 * [🔦 Cal.com Status Page](engineering/cal.com-status-page.md)
 
 ## Customer Success
