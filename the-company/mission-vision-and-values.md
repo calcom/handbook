@@ -76,7 +76,7 @@ We are always thinking about the long-term when we make our decisions, as we pla
 
 ### No-competition thinking
 
-Our only competitor is the [Cal.com](http://cal.com/) of yesterday. We're constantly improving and never compare ourselves to others (in terms of market competition). We do not compete with proprietary SaaS companies. The next best Cal.com alternative needs to be another open-source scheduling tool–which does not exist yet.
+Our only competitor is the [Cal.com](https://cal.com/) of yesterday. We're constantly improving and never compare ourselves to others (in terms of market competition). We do not compete with proprietary SaaS companies. The next best Cal.com alternative needs to be another open-source scheduling tool–which does not exist yet.
 
 ### Employee growth
 

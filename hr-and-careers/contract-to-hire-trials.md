@@ -7,7 +7,7 @@ coverY: 0
 
 # 👷 Contract-to-hire trials
 
-At [Cal.com](http://cal.com/), we take a very different approach to hiring. Most of our full time employees will be preceded in a 30 day contract-to-hire trial period. A contract will be administered for a 30 day period with the company, and then at the end of the contract a final decision will be made on whether the person will be brought on full time.
+At [Cal.com](https://cal.com/), we take a very different approach to hiring. Most of our full time employees will be preceded in a 30 day contract-to-hire trial period. A contract will be administered for a 30 day period with the company, and then at the end of the contract a final decision will be made on whether the person will be brought on full time.
 
 A lot of people ask (for very good reason) what “success” looks like during the trial. The trial is less about “showing why you should join” and more like “finding reasons why you shouldn’t join”
 

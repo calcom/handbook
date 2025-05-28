@@ -12,7 +12,7 @@ Bailey Pumfleet on building an open source rocketship ("Stripe for Time")
 
 ### General
 
-From the very first day, [Cal.com](http://cal.com/) started to connect 1 billion people by 2031. We fundamentally believe **infrastructure software** needs to be open, accessible, and here to stay. To achieve this, we started out as an open-source company from its inception.
+From the very first day, [Cal.com](https://cal.com/) started to connect 1 billion people by 2031. We fundamentally believe **infrastructure software** needs to be open, accessible, and here to stay. To achieve this, we started out as an open-source company from its inception.
 
 Being open-source has a lot of tradeoffs. It’s been an incredible growth journey so far thanks to its word-of-mouth nature and developer interest, but OSS is known for making it hard to capture the generated value early on.
 
@@ -46,13 +46,13 @@ Calendly is not the only player in the scheduling game. There is SavvyCal, TidyC
 
 After reading this, you may think the correct thing is to immediately focus on the tail-end of the market: enterprise and sell self-hosted & infrastructure plans. After all, that’s likely a great strategy to bring in thousands of new users via a single deal.
 
-While we initially thought the same, we’ve come to the conclusion that B2C bottom-up growth (i.e. people signing up for [cal.com/username](http://cal.com/username)) is the most relevant strategy for us going forward in the short term.
+While we initially thought the same, we’ve come to the conclusion that B2C bottom-up growth (i.e. people signing up for [cal.com/username](https://cal.com/username)) is the most relevant strategy for us going forward in the short term.
 
 **Here’s why:** A single active customer shares their link about 50-100 times in the first 6 months. If only 10% of the link receivers sign up for their own account, that’s an`R0`of 5 to 10 new users per active customer.
 
 A high percentage of these new customers are developers or technical decision-makers. These people become the best salespeople and evangelists in their existing organizations, whether it's a startup or fortune500 company.
 
-We’re already seeing companies reach out for an infrastructure plan after one of their employees has been a power user of the hosted [Cal.com](http://cal.com/) plan.
+We’re already seeing companies reach out for an infrastructure plan after one of their employees has been a power user of the hosted [Cal.com](https://cal.com/) plan.
 
 ### Long-term
 
@@ -71,6 +71,6 @@ Time will help us build reputation, trust, and evangelists who sell from within 
 * revenue is great, but not the immediate north-star to optimize for
 * build an army of evangelists
 * turn scheduling into a commodity and become the market owner
-* focus on the [cal.com/username](http://cal.com/username) customer experience first
+* focus on the [cal.com/username](https://cal.com/username) customer experience first
 * sell into Fortune500 companies later to capture value
 * base your decision around: “how can this what I’m working on reach more people”
