@@ -10,8 +10,8 @@ description: >-
 * **Responsibilities**:
   * Partner **directly with the Head of Engineering** to drive major architectural improvements, large-scale refactors, and multi-quarter technical initiatives. You are the go-to collaborator when we need to replatform, untangle, or re-architect a core part of the product.
   * Lead technical initiatives that span multiple teams or surfaces of the product. These are the kind of work that can't be owned by a single IC4. Write the design doc, build consensus, and see it through to production.
-  * **Own our AI-assisted development practice.** Define how the team uses tools like Claude Code, Cursor, and Codex effectively. Write the guides, build the prompt libraries, curate the `CLAUDE.md` and `AGENTS.md` files, and lift the floor on what "good AI-assisted output" looks like at Cal.com.
-  * **Design the evals and guardrails** for code generated or modified by AI. Make sure AI-assisted PRs hit the same quality bar as human-written ones, via tests, type safety, review checklists, and automated checks.
+  * Own our AI-assisted development practice. Define how the team uses tools like Claude Code, Cursor, and Codex effectively. Write the guides, build the prompt libraries, curate the `CLAUDE.md` and `AGENTS.md` files, and lift the floor on what "good AI-assisted output" looks like at Cal.com.
+  * Design the evals and guardrails for code generated or modified by AI. Make sure AI-assisted PRs hit the same quality bar as human-written ones, via tests, type safety, review checklists, and automated checks.
   * Identify places where AI can ship real product value (agents, assistants, workflow automation inside the app) and lead the technical design for those features end-to-end.
   * Build internal tooling and automations that make the entire engineering team faster: eval harnesses, codegen pipelines, one-off scripts that save hours, internal dashboards, dev-loop improvements.
   * Act as a technical interviewer and a strong voice in hiring. You help set the bar for what an engineer at Cal.com looks like.

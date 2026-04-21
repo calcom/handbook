@@ -6,21 +6,35 @@ description: >-
 
 # 🧙‍♂️ IC4 Engineer (Code Wizard)
 
-* **Role**: IC4s lead from the front, guiding the entire engineering team and working closely with collaborators from outside the company.
+***
+
+### icon: wizard
+
+## IC4 Engineer (Code Wizard)
+
+_"I'm the wizard behind the code, conjuring up solutions to the most challenging problems and guiding our technical vision into the future."_
+
+* **Role**: IC4s are the deep technical owners of a feature area, domain, or product surface. Within their zone, they are the most trusted engineer on the team, the go-to for the hardest technical problems, and the primary point of contact for external partners whose work intersects their area. IC4 is a depth role: the bar is technical excellence and ownership within a surface of Cal.com, not cross-team leverage (that is IC5's job).
 * **Responsibilities**:
-  * Mentor and guide team members across all IC levels.
-  * Collaborate with external partners and lead integration projects with companies such as Prisma, BoxyHQ, and tRPC.
-  * Work closely with Head of Engineering to drive technical roadmaps.
-  * Respond to application alerts extremely quickly and ensure we are striving towards extremely high uptime.
-* **Leadership**:&#x20;
-  * IC4s are not just experts in their field but are also responsible for the growth and direction of the engineering team.&#x20;
+  * Own a feature area or domain end-to-end. You are accountable for the health, quality, uptime, and evolution of a major surface of Cal.com (for example: scheduling engine, availability, billing, embeds, a class of calendar integrations, a class of enterprise features). If it breaks, you're the first call. If it needs to get better, you're driving it.
+  * Mentor and guide IC1s, IC2s, and IC3s, especially those working in or around your area. Help them ramp, unblock them on hard problems, and make them better engineers through code review and pairing.
+  * Collaborate with external partners and lead integration projects with companies such as Prisma and tRPC. You are the integration-level technical counterpart on our side.
+  * Respond to application alerts within your area extremely quickly and ensure we are striving toward extremely high uptime on the surfaces you own.
+  * Contribute as a domain expert in architecture discussions that touch your area. You provide the ground truth for what's possible, what's risky, and what the right shape is for work inside your zone. Cross-team and multi-quarter strategic direction is shaped with the Head of Engineering, IC5s, and IC6s.
+* **Leadership**:
+  * IC4s are experts in their field and are responsible for the growth and direction of their domain, and for mentoring the engineers working inside it.
   * Be the rock the team needs when things are on fire. Your ability to demonstrate calmness and composure during difficult outages will go a long way in bringing the team together to quickly resolve the issue.
-* **Expertise**:&#x20;
-  * There's no problem they can't solve.&#x20;
+* **Expertise**:
+  * There's no problem in your domain they can't solve.
   * They know our tech like the back of their hand.
-  * Their code is practically flawless.&#x20;
-    * They expertly design functions, classes and modules such that they are easily testable with unit and integration tests.&#x20;
+  * Their code is practically flawless.
+    * They expertly design functions, classes and modules such that they are easily testable with unit and integration tests.
     * Other engineers easily understand their code and can extend it with little-to-no complications.
+* **How IC4 differs from IC5**: IC4 is a depth role; IC5 is a breadth role.
+  * IC4 owns a surface of the product. IC5 owns how the whole engineering team builds.
+  * IC4 is the best person to call for a hard problem inside their domain. IC5 is the best person to call when the problem spans multiple domains, or when the question is about shared practice, tooling, or AI workflows.
+  * IC4 mentors the engineers working in and around their area. IC5 mentors IC3s and IC4s into staff-track leaders.
+  * IC4 partners with external companies at the integration level. IC5 partners directly with the Head of Engineering on multi-team architectural direction.
 
 ### Path to IC5 Engineer
 
@@ -28,9 +42,9 @@ description: >-
 
 You need to consistently demonstrate skills of an IC5 in order to be promoted.
 
-* **Become a force multiplier**. IC4 is about being the strongest engineer in the room. IC5 is about making the rest of the room stronger. Your impact should stop being measured primarily by the code you personally wrote this week, and start being measured by the code the rest of the team wrote better because of something you built, wrote, reviewed, or unblocked.
+* **Become a force multiplier**. IC4 is about being the strongest engineer in the room for your domain. IC5 is about making the rest of the room stronger. Your impact should stop being measured primarily by the code you personally wrote this week, and start being measured by the code the rest of the team wrote better because of something you built, wrote, reviewed, or unblocked.
   * _Example_: Build the internal tooling, shared patterns, or reusable primitives that lift the floor on quality for every engineer on the team.
 * **Own AI-assisted development for the team**. Move from being a great user of AI tools to being the person who decides how we all use them. Define the standards, the guardrails, the evals, and the workflows that make AI-assisted code at Cal.com meet the same bar as hand-written code. Curate the `CLAUDE.md` and `AGENTS.md` files, the prompt libraries, and the review checklists.
 * **Lead multi-team, multi-quarter initiatives**. Move from owning a core feature area to owning initiatives that span multiple teams and multiple quarters. Write the design doc, build consensus, partner with the Head of Engineering on scope and direction, and see the initiative through to production.
   * _Example_: Lead a major architectural improvement or a large-scale refactor end-to-end, including the migration plan, the rollout, and the cleanup.
-* **Grow other senior engineers**. Mentorship at IC4 often focuses on juniors and mid-level engineers. At IC5, you're also helping IC3s and IC4s expand their scope and step up into staff-track technical leadership. If engineers you've mentored are stepping into bigger roles, that's a leading indicator.
+* **Grow other senior engineers**. Mentorship at IC4 often focuses on juniors and mid-level engineers working in or around your area. At IC5, you're also helping IC3s and IC4s expand their scope and step up into staff-track technical leadership.
