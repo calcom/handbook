@@ -8,8 +8,6 @@ description: >-
 
 ***
 
-### icon: wizard
-
 ## IC4 Engineer (Code Wizard)
 
 _"I'm the wizard behind the code, conjuring up solutions to the most challenging problems and guiding our technical vision into the future."_
