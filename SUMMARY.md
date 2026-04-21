@@ -19,6 +19,8 @@
     * [👷‍♀️ IC2 Engineer (Code Craftsperson)](hr-and-careers/ic-levels/engineering-levels/ic2-engineer-code-craftsperson.md)
     * [🧘‍♀️ IC3 Engineer (Code Connoisseur)](hr-and-careers/ic-levels/engineering-levels/ic3-engineer-code-connoisseur.md)
     * [🧙‍♂️ IC4 Engineer (Code Wizard)](hr-and-careers/ic-levels/engineering-levels/ic4-engineer-code-wizard.md)
+    * [🥷 IC5 Engineer (Code Sensei)](hr-and-careers/ic-levels/engineering-levels/ic5-engineer-code-sensei.md)
+    * [🙇 IC6 Engineer (Code Oracle)](hr-and-careers/ic-levels/engineering-levels/ic6-engineer-code-oracle.md)
 * [💡 Sharing your views](hr-and-careers/sharing-your-views.md)
 * [💸 Bonus & Equity Structure](hr-and-careers/bonus-and-equity-structure.md)
 
