@@ -1,8 +1,7 @@
 ---
 description: >-
-  "I see where the codebase, the stack, and the craft are headed, and I make
-  sure Cal.com gets there. I set technical strategy for the whole company, and I
-  work shoulder-to-shoulder with the Head of Eng
+  "I see where the codebase and the stack are headed, and I work with the Head
+  of Engineering to decide what we build, what we rebuild, and what we retire."
 ---
 
 # 🙇 IC6 Engineer (Code Oracle)

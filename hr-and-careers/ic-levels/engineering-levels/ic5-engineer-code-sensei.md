@@ -1,8 +1,7 @@
 ---
 description: >-
-  "I've moved beyond shipping features to shaping how we build them. I multiply
-  the team, set the technical direction for entire surfaces of the product, and
-  I teach the next wave of engineers"
+  "I'm the sensei of the codebase, multiplying the team and teaching both
+  engineers and AI tools how to build the Cal.com way."
 ---
 
 # 🥷 IC5 Engineer (Code Sensei)
